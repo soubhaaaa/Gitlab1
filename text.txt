@@ -1,1 +1,2 @@
-welcome to gitlab
+welcome to git lab
+welcome to gitbash
